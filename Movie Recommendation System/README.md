@@ -149,27 +149,6 @@ This application can be deployed on **Render** using:
 pip install -r requirements.txt
 ```
 
-* **Start Command**
 
-```text
-gunicorn app:app
-```
 
----
 
-## 📈 Future Improvements
-
-* Movie posters
-* Search autocomplete
-* TMDb API integration
-* User authentication
-* Personalized recommendations
-* Rating prediction
-* Responsive UI
-* Dark mode
-
----
-
-## 📄 License
-
-This project is developed for educational and learning purposes.
